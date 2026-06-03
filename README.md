@@ -95,16 +95,16 @@ Dashboard views include:
 ## Visuals
 
 ### Revenue by Plan Tier
-![ ](visuals/revenue by plan tier.png)
+![Revenue by Plan Tier](visuals/revenue%20by%20plan%20tier.png)
 
 ### Churn by Plan Tier
-![ ](visuals/churn rate by plan tier.png)
+![Churn by Plan Tier](visuals/churn%20rate%20by%20plan%20tier.png)
 
 ### Churn Reasons
-![ ](visuals/churn reasons.png)
+![Churn Reasons](visuals/churn%20reasons.png)
 
-### Monthly Chrun Trends
-![ ](visuals/monthly churn trend.png)
+### Monthly Churn Trends
+![Monthly Churn Trends](visuals/monthly%20churn%20trend.png)
 
 ## Key Business Insights
 - `Enterprise` generated the highest recurring revenue.
