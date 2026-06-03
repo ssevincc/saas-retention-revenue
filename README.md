@@ -92,6 +92,20 @@ Dashboard views include:
 - monthly churn trend
 - churn reasons
 
+## Visuals
+
+### Revenue by Plan Tier
+![Revenue by Plan Tier](visuals/revenue by plan tier.png)
+
+### Churn by Plan Tier
+![Churn by Plan Tier](visuals/churn by plan tier.png)
+
+### Churn Reasons
+![Churn Reasons](visuals/churn reasons.png)
+
+### Monthly Chrun Trends
+![Monthly Churn Trends](visuals/monthly churn trends.png)
+
 ## Key Business Insights
 - `Enterprise` generated the highest recurring revenue.
 - `Basic` had the highest churn rate.
